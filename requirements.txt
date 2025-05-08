@@ -1,6 +1,5 @@
-streamlit
-kagglehub
-pandas
-scikit-learn
-matplotlib
-numpy
+streamlit>=1.25
+pandas>=1.5
+numpy>=1.21
+scikit-learn>=1.0
+altair>=4.2
