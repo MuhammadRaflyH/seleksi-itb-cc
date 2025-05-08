@@ -3,3 +3,4 @@ kagglehub
 pandas
 scikit-learn
 matplotlib
+numpy
